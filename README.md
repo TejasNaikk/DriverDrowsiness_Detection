@@ -8,7 +8,7 @@ This is a project implementing Computer Vision and Deep Learning concepts to det
 • Optimized network weights by Adam Optimization algorithm.
 Technologies used: Python 2.7, OpenCV 3.3.0, Tensorflow, Keras, CNN, RNN, LSTM.
 
-Youtube Link: https://www.youtube.com/watch?v=XFC7BJgYwH4&t=4s
+Youtube Link: https://youtu.be/XFC7BJgYwH4
 
 Steps to run this project:
 1. Run the run_extract_eyes.sh program to track the eyes for different videos(training data) and to store the patches of the eyes in a folder for every video. (Alert and Drowsy)
